@@ -12,7 +12,9 @@ Python
 ### Packages
 General: Pandas, Numpy  
 Visualization: matplotlib
-Statistics: scipy.stats, rpy2.robjects 
+Statistics: scipy.stats, rpy2.robjects  
+NLP: sklearn, nltk  
+
 
 ### Business Understanding
 Question 1: What does each treatment typically cost? How tp display this data to consumers?
