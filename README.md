@@ -25,13 +25,13 @@ Data information is listed below:
 RangeIndex: 662 entries, 0 to 661
 Data columns (total 9 columns):
 
-Column            Non-Null Count  Dtype          
-Created Date      662 non-null    datetime64[ns] Review created date.
-Treatment Rating  662 non-null    object   Consumer's rating on the treatment he/she took. There are just two outcomes, Worth it or Not worth it.           
-Number of Photos  662 non-null    int64    Number of posted photos    
-Number of Words   662 non-null    int64    Number of review words
-Provider Rating   644 non-null    float64  Consumer's rating on the treatment provider (out of 5)
-Physician Type    547 non-null    object   Provider's type, such as Family Physician, Plastic surgeon
-Treatment Name    662 non-null    object   4 different treatments.
-Title             662 non-null    object   Consumers' review title   
-Cost              662 non-null    float64  Cost for the treatment (posted by consumers).
+Column                    
+Created Date      Review created date  
+Treatment Rating  Consumer's rating on the treatment he/she took. There are just two outcomes, Worth it or Not worth it.            
+Number of Photos  Number of posted photos      
+Number of Words   Number of review words  
+Provider Rating   Consumer's rating on the treatment provider (out of 5)  
+Physician Type    Provider's type, such as Family Physician, Plastic surgeon  
+Treatment Name    4 different treatments.  
+Title             Consumers' review title    
+Cost              Cost for the treatment (posted by consumers).  
