@@ -37,3 +37,6 @@ Physician Type: Provider's type, such as Family Physician, Plastic surgeon
 Treatment Name: 4 different treatments.  
 Title: Consumers' review title    
 Cost: Cost for the treatment (posted by consumers).  
+
+### Dashboard demonstrated
+![Dashboard](https://github.com/XHuang2046/ad_hoc_analysis/blob/main/Dashboard.JPG)
