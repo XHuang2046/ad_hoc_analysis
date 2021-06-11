@@ -40,5 +40,5 @@ Cost: Cost for the treatment (posted by consumers).
 
 ### Dashboard demonstrated
 [Tableau Viz](https://public.tableau.com/views/excersize_16219877533230/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-![Dashboard](https://github.com/XHuang2046/ad_hoc_analysis/blob/main/Dashboard.JPG)
+![Dashboard](https://github.com/XHuang2046/ad_hoc_analysis/blob/main/Dashboard.png)
 
